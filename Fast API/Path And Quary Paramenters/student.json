@@ -1,0 +1,92 @@
+[
+    {
+        "id": 101,
+        "name": "Rahul Sharma",
+        "age": 21,
+        "course": "MCA",
+        "city": "Pune",
+        "marks": 85,
+        "attendance": 92
+    },
+    {
+        "id": 102,
+        "name": "Priya Patil",
+        "age": 22,
+        "course": "MBA",
+        "city": "Mumbai",
+        "marks": 91,
+        "attendance": 96
+    },
+    {
+        "id": 103,
+        "name": "Amit Verma",
+        "age": 20,
+        "course": "BCA",
+        "city": "Pune",
+        "marks": 67,
+        "attendance": 78
+    },
+    {
+        "id": 104,
+        "name": "Sneha Joshi",
+        "age": 23,
+        "course": "MCA",
+        "city": "Nashik",
+        "marks": 94,
+        "attendance": 98
+    },
+    {
+        "id": 105,
+        "name": "Rohit Singh",
+        "age": 21,
+        "course": "BBA",
+        "city": "Nagpur",
+        "marks": 73,
+        "attendance": 82
+    },
+    {
+        "id": 106,
+        "name": "Neha Kulkarni",
+        "age": 22,
+        "course": "MCA",
+        "city": "Pune",
+        "marks": 88,
+        "attendance": 89
+    },
+    {
+        "id": 107,
+        "name": "Vikram Desai",
+        "age": 24,
+        "course": "MBA",
+        "city": "Mumbai",
+        "marks": 79,
+        "attendance": 85
+    },
+    {
+        "id": 108,
+        "name": "Pooja Mehta",
+        "age": 20,
+        "course": "BCA",
+        "city": "Nashik",
+        "marks": 96,
+        "attendance": 95
+    },
+    {
+        "id": 109,
+        "name": "Karan Shah",
+        "age": 23,
+        "course": "MCA",
+        "city": "Nagpur",
+        "marks": 58,
+        "attendance": 65
+    },
+    {
+        "id": 110,
+        "name": "Anjali Pawar",
+        "age": 21,
+        "course": "MBA",
+        "city": "Pune",
+        "marks": 82,
+        "attendance": 90
+    }
+]

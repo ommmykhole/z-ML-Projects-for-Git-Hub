@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Dell Inspiron 15",
+        "category": "Electronics",
+        "brand": "Dell",
+        "price": 55000,
+        "stock": 12,
+        "rating": 4.3
+    },
+    {
+        "id": 2,
+        "name": "HP Wireless Mouse",
+        "category": "Electronics",
+        "brand": "HP",
+        "price": 899,
+        "stock": 35,
+        "rating": 4.1
+    },
+    {
+        "id": 3,
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "brand": "Redragon",
+        "price": 2499,
+        "stock": 18,
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "name": "Office Chair",
+        "category": "Furniture",
+        "brand": "GreenSoul",
+        "price": 7499,
+        "stock": 8,
+        "rating": 4.4
+    },
+    {
+        "id": 5,
+        "name": "Study Table",
+        "category": "Furniture",
+        "brand": "Wakefit",
+        "price": 5999,
+        "stock": 15,
+        "rating": 4.2
+    },
+    {
+        "id": 6,
+        "name": "Samsung Galaxy A55",
+        "category": "Electronics",
+        "brand": "Samsung",
+        "price": 32999,
+        "stock": 20,
+        "rating": 4.6
+    },
+    {
+        "id": 7,
+        "name": "Boat Bluetooth Speaker",
+        "category": "Electronics",
+        "brand": "Boat",
+        "price": 1999,
+        "stock": 42,
+        "rating": 4.0
+    },
+    {
+        "id": 8,
+        "name": "Water Bottle",
+        "category": "Home",
+        "brand": "Milton",
+        "price": 699,
+        "stock": 50,
+        "rating": 4.3
+    },
+    {
+        "id": 9,
+        "name": "Backpack",
+        "category": "Accessories",
+        "brand": "American Tourister",
+        "price": 1899,
+        "stock": 25,
+        "rating": 4.5
+    },
+    {
+        "id": 10,
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "brand": "Nike",
+        "price": 4999,
+        "stock": 10,
+        "rating": 4.7
+    }
+]
