@@ -18,3 +18,4 @@ catboost_training.json
 events.out.tfevents*
 learn_error.tsv
 time_left.tsv
+Hospital Management System Project/frontend/frontend.py
